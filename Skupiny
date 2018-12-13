@@ -1,2 +1,2 @@
-<div class="p-3 mb-2 bg-warning text-dark">.bg-warning</div>Majitel
-<p class="text-body">.text-body</p>TigriikVoe
+<h2 style="display: inline-block;">
+                     TigriikVoe                     <span class="label label-warning">Hl.Helper</span>                     </h2>
